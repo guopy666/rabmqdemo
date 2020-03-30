@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @Description:
+ * @Description: 路由模式——模拟错误日志
  * @author: guopy
  * @Date: 2020/3/28 21:31
  * @version: v1.0.0

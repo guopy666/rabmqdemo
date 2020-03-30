@@ -7,12 +7,12 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @Description:
+ * @Description: 路由模式——info日志
  * @author: guopy
  * @Date: 2020/3/29 09:58
  * @version: v1.0.0
  */
-public class RoutOtherCustomerTest {
+public class RoutInfoCustomerTest {
     private static final String QUEUE_NAME = "consumer_info";
     private static final String EXCHANGE_NAME = "test_routing_exchange";
 

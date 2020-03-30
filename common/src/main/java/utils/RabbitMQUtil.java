@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @Description:
+ * @Description: rabbitmq配置
  * @author: guopy
  * @Date: 2020/3/28 16:56
  * @version: v1.0.0

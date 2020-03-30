@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @Description:
+ * @Description: 订阅模式——邮件消费者
  * @author: guopy
  * @Date: 2020/3/28 17:49
  * @version: v1.0.0

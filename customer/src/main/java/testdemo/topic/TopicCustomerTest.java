@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.concurrent.TimeoutException;
 
 /**
- * @Description:
+ * @Description: 主题模式，和路由模式相似，匹配规则更加开放
  * @author: guopy
  * @Date: 2020/3/30 16:58
  * @version: v1.0.0
